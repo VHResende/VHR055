@@ -2,6 +2,6 @@
 **Victor Resende**
 _______________
 # Regressão Logística
-**Pycareta - Pipeline**
+**Pycaret - Pipeline**
 _______________
 
